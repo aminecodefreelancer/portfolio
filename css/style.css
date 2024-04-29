@@ -21,6 +21,10 @@ header {
     text-align: center;
 }
 
+.a-header {
+     color: white;   
+}
+    
 nav ul {
     list-style-type: none;
     padding: 0;
